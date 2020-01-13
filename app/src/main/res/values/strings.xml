@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyNewApplication</string>
+    <string name="once_loved">Once Loved</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="got_stuff_to_give_away">Got Stuff to give away?</string>
+    <string name="place_to_swap_your_kid_s_old_stuff">Place to swap your kid\'s old stuff</string>
+    <string name="post_items">Post items</string>
+    <string name="want_free_stuff_or_want_to_trade">Want free stuff or want to Trade?</string>
+    <string name="clothing">Clothing</string>
+    <string name="toys">Toys</string>
+    <string name="button">Button</string>
+    <string name="shoes">Shoes</string>
+    <string name="books">Books</string>
+    <string name="no_promotions_services_or_advertising">No Promotions, Services or Advertising</string>
+    <string name="post_title">Post Title</string>
+    <string name="categories">Categories</string>
+    <string name="clothes">Clothes</string>
+    <string name="book">Book</string>
+    <string name="toy">Toy</string>
+    <string name="footwear">Footwear</string>
+    <string name="description">Description</string>
+    <string name="eg_baby_girl_shoes">eg : Baby girl shoes</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="register">Register</string>
+    <string name="enter_your_phone_number">Enter your Phone number</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_your_postal_address">Enter your Postal address </string>
+    <string name="create_your_password">Create your Password</string>
+    <string name="enter_your_password">Enter your Password</string>
+    <string name="enter_your_email_add">Enter your email add</string>
+    <string name="submit">Submit</string>
+</resources>
