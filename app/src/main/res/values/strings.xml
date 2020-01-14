@@ -32,4 +32,9 @@
     <string name="enter_your_password">Enter your Password</string>
     <string name="enter_your_email_add">Enter your email add</string>
     <string name="submit">Submit</string>
+    <string name="e_g_girl_s_shoes_size_10">e.g. Girl\'s shoes size 10</string>
+    <string name="short_description_max_25_chars">Short Description (max 25 chars)</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="max_140_characters">max 140 characters</string>
+    <string name="post_item">POST ITEM</string>
 </resources>
