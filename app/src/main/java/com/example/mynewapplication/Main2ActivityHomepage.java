@@ -21,5 +21,12 @@ public class Main2ActivityHomepage extends AppCompatActivity {
     public void searchclothing(View view) {
         Intent intent=new Intent(this,Clothing.class);
         startActivity(intent);
+
+    }
+
+    public void addtoys(View view) {
+        Intent intent = new Intent(this, Toys.class);
+        startActivity(intent);
+
     }
 }
