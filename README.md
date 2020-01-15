@@ -23,10 +23,10 @@ I would like to view available items
 To begin exchanging goods
 ```
 
-## Minimum Viable Product
-
-View the [MVP]() domain model
-
 ## Team Charter
 
-View the [Team Charter]()
+View the [Team Charter](https://github.com/pavidshetty/MyNewApplication/blob/master/X-People%20Team%20Charter.docx)
+
+## Minimum Viable Product
+
+View the [MVP](https://github.com/pavidshetty/MyNewApplication/blob/master/OnceLovedMVP.pdf) domain model
