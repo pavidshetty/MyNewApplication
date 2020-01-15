@@ -165,6 +165,7 @@
         android:layout_marginEnd="176dp"
         android:layout_marginRight="169dp"
         android:layout_marginBottom="44dp"
+        android:onClick="clickpost"
         android:text="@string/post_item"
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"

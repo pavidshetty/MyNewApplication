@@ -14,4 +14,10 @@ public class Additems extends AppCompatActivity {
         setContentView(R.layout.activity_additems);
         this.setTitle("Post Items");
     }
+
+    public void clickpost(View view) {
+        Intent intent = new Intent(this, ViewPostItem.class);
+        startActivity(intent);
+
+    }
 }

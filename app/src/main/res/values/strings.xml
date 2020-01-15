@@ -37,4 +37,14 @@
     <string name="additional_information">Additional Information</string>
     <string name="max_140_characters">max 140 characters</string>
     <string name="post_item">POST ITEM</string>
+    <string name="title_activity_view_posted_item">ViewPostedItem</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="your_item_has_been_posted">Your Item Has Been Posted</string>
 </resources>
