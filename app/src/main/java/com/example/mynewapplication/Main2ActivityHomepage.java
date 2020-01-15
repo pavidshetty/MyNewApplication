@@ -13,13 +13,15 @@ public class Main2ActivityHomepage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2_homepage);
     }
+
     public void addbutton(View view) {
-        Intent intent=new Intent(this,Additems.class);
+        Intent intent = new Intent(this, Additems.class);
         startActivity(intent);
 
     }
+
     public void searchclothing(View view) {
-        Intent intent=new Intent(this,Clothing.class);
+        Intent intent = new Intent(this, Clothing.class);
         startActivity(intent);
 
     }
