@@ -8,8 +8,6 @@ import android.view.View;
 import android.os.Bundle;
 
 
-import android.os.Bundle;
-
 public class ViewPostItem extends AppCompatActivity {
 
     @Override
