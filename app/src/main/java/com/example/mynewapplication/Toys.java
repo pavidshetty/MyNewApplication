@@ -1,7 +1,6 @@
 package com.example.mynewapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class Toys extends AppCompatActivity {

@@ -17,12 +17,12 @@
         android:hint="@string/enter_your_phone_number"
         android:inputType="phone"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/Postal"
+        app:layout_constraintEnd_toEndOf="@+id/postal"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/Postal" />
+        app:layout_constraintStart_toStartOf="@+id/postal" />
 
     <EditText
-        android:id="@+id/Postal"
+        android:id="@+id/postal"
         android:layout_width="218dp"
         android:layout_height="47dp"
         android:layout_marginBottom="236dp"
@@ -36,7 +36,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/Password"
+        android:id="@+id/password"
         android:layout_width="221dp"
         android:layout_height="47dp"
         android:ems="10"
@@ -59,13 +59,13 @@
         android:importantForAutofill="no"
         android:inputType="textEmailAddress"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/Password"
-        app:layout_constraintStart_toStartOf="@+id/Password"
+        app:layout_constraintEnd_toEndOf="@+id/password"
+        app:layout_constraintStart_toStartOf="@+id/password"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.273" />
 
     <EditText
-        android:id="@+id/Name"
+        android:id="@+id/name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="180dp"
@@ -73,7 +73,7 @@
         android:ems="10"
         android:hint="@string/enter_your_name"
         android:importantForAutofill="no"
-        android:inputType="textPassword"
+        android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/email"
         app:layout_constraintHorizontal_bias="0.0"
@@ -82,18 +82,44 @@
         app:layout_constraintVertical_bias="0.163" />
 
     <Button
-        android:id="@+id/Submit"
+        android:id="@+id/clicksignin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="regist"
-        android:text="@string/submit"
+        android:text="@string/create_account"
         android:textColor="#4CAF50"
-        android:textSize="18sp"
+        android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="@+id/Postal"
+        app:layout_constraintStart_toStartOf="@+id/postal"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.774" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="404dp"
+        android:layout_height="61dp"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="316dp"
+        android:layout_marginLeft="316dp"
+        android:layout_gravity="end"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.002" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
