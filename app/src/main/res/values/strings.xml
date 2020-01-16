@@ -6,7 +6,6 @@
     <string name="todo">TODO</string>
     <string name="login">Login</string>
     <string name="got_stuff_to_give_away">Got Stuff to give away?</string>
-    <string name="place_to_swap_your_kid_s_old_stuff">Place to swap your kid\'s old stuff</string>
     <string name="post_items">Post items</string>
     <string name="want_free_stuff_or_want_to_trade">Want free stuff or want to Trade?</string>
     <string name="clothing">Clothing</string>
@@ -31,6 +30,23 @@
     <string name="create_your_password">Create your Password</string>
     <string name="enter_your_password">Enter your Password</string>
     <string name="enter_your_email_add">Enter your email add</string>
+    <string name="a_place_to_swap_your_kid_s_pre_loved_stuff">A place to swap your kid\'s pre-loved stuff</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="mother_care_unisex_baby_bodysuit_vibrant_colors_and_in_excellent_condition_size_0_3_months">Mother Care Unisex Baby Bodysuit.Vibrant colors and in excellent condition.Size 0-3 months</string>
+    <string name="unisex_baby_bodysuits">Unisex Baby Bodysuits</string>
+    <string name="pretty_minie_mouse_outfit">Pretty Minie Mouse Outfit</string>
+    <string name="cute_baby_girl_outfit">Cute baby girl outfit</string>
+    <string name="funny_quote_baby_bodysuit">Funny Quote Baby Bodysuit</string>
+    <string name="cute_monkey_outfit">Cute Monkey Outfit</string>
+    <string name="pretty_red_dress">Pretty Red dress</string>
+    <string name="cute_bunny_wooden_toy">Cute Bunny wooden toy</string>
+    <string name="house_toy">House Toy</string>
+    <string name="educational_toys">Educational Toys</string>
+    <string name="bycycle_for_kids">Bycycle for kids</string>
+    <string name="talking_puppy">Talking Puppy</string>
+    <string name="wooden_cycyle">Wooden cycyle</string>
+    <string name="your_item_has_been_posted">Your Item has been Posted</string>
     <string name="submit">Submit</string>
     <string name="e_g_girl_s_shoes_size_10">e.g. Girl\'s shoes size 10</string>
     <string name="short_description_max_25_chars">Short Description (max 25 chars)</string>
@@ -38,12 +54,8 @@
     <string name="max_140_characters">max 140 characters</string>
     <string name="post_item">POST ITEM</string>
     <string name="title_activity_view_posted_item">ViewPostedItem</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="your_item_has_been_posted">Your Item Has Been Posted</string>

@@ -1,10 +1,12 @@
 package com.example.mynewapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.os.Bundle;
+
 
 public class ViewPostItem extends AppCompatActivity {
 
